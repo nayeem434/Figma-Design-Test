@@ -1,0 +1,279 @@
+body{
+	margin: 0;
+}
+.conversation{
+font-family: EB Garamond;
+font-size: 40px;
+font-weight: 400;
+line-height: 28.08px;
+letter-spacing: -0.47999998927116394px;
+color: #D6AD61;
+margin-left: 30px;
+
+}
+
+.then{
+font-family: EB Garamond;
+font-size: 28px;
+font-weight: 400;
+line-height: 38px;
+margin-left: 30px;
+
+}
+
+.first-left-image-setup img{
+width: 266px;
+height: 385px;
+top: 216px;
+left: 280px;
+gap: 0px;
+opacity: 0px;
+margin-left: 25px;
+
+}
+.product{
+	display: flex;
+	align-items: flex-start;
+}
+
+.imagecontent1{
+	margin-left: 15px;
+	font-weight: 400;
+	font-size: 30px;
+}
+.imagecontent2{
+	margin-left: 15px;
+}
+.imagecontent3{
+	margin-left: 15px;
+}
+.imagecontent4{
+	margin-left: 15px;
+}
+.imagecontent5{
+	margin-left: 15px;
+}
+.imagecontent6{
+	margin-left: 15px;
+}
+.imagecontent7{
+	margin-left: 15px;
+	background: #CF9F4A;
+	color: #ffffff;
+	width: 259px;
+	height: 42px;
+	padding: 13px 46px 12px 45px;
+	gap: 0px;
+	border-radius: 40px;
+	opacity: 0px;
+	border-color: #CF9F4A;
+
+
+}
+.imagecontent8{
+	margin-left: 20px;
+}
+
+.kichhu{
+	color: #CF9F4A;
+	text-decoration: none;
+	font-size: 24px;
+	margin-left: 15px;
+
+}
+
+.facility{
+	display: flex;
+	align-items: flex-start;
+}
+
+.second-right-image-setup img{
+	width: 266px;
+	height: 385px;
+	top: 216px;
+	left: 280px;
+	gap: 0px;
+	opacity: 0px;
+	margin-left: 25px;
+
+}
+
+.main-step1{
+	margin-left: 15px;
+	font-weight: 400;
+	font-size: 30px;
+}
+.main-step2{
+	margin-left: 15px;
+}
+.main-step3{
+	margin-left: 15px;
+}
+.main-step4{
+	margin-left: 15px;
+}
+.main-step5{
+	margin-left: 15px;
+}
+.main-step6{
+	margin-left: 15px;
+}
+.main-step7{
+	margin-left: 15px;
+	background: #CF9F4A;
+	color: #ffffff;
+	width: 259px;
+	height: 42px;
+	padding: 13px 46px 12px 45px;
+	gap: 0px;
+	border-radius: 40px;
+	opacity: 0px;
+	border-color: #CF9F4A;
+
+
+}
+.main-step8{
+	margin-left: 15px;
+}
+
+.field{
+	color: #CF9F4A;
+	text-decoration: none;
+	font-size: 24px;
+	margin-left: 15px;
+}
+
+.first-step{
+
+	display: flex;
+	align-items: flex-start;
+}
+
+.image-gallery{
+	display: flex;
+	flex-wrap: wrap;
+	gap: 8px;
+	padding-top: 60px;
+	margin-left: 50px;
+}
+.image-gallery p{
+	width: 90%;
+	height: auto;
+	display: block;
+}
+
+.image-gallery img{
+	width: 60%;
+	height: auto;
+	display: block;
+}
+
+.image-container{
+	flex: 1 1 calc(4% - 10px);
+
+}
+
+.step{
+	padding-top: 25px;
+	margin-left: 15px;
+	width: 120px;
+	height: 100px;
+}
+
+.during{
+	display: flex;
+	flex-wrap: wrap;
+	gap: 10px;
+	padding-top: 70px;
+	
+}
+
+.during img{
+	width: 13%;
+	height: auto;
+	display: block;
+}
+.during p{
+	width: 30%;
+	height: auto;
+	display: block;
+	font-size: 22px;
+	padding-top: 76px;
+}
+
+.during available{
+	flex: 1 1 calc(4% - 10px);
+}
+
+.image-container{
+	flex: 1 1 calc(4% - 10px);
+
+}
+
+.content-setup{
+	margin-left: 15px;
+	font-family: EB Garamond;
+	font-size: 33px;
+	font-weight: 400;
+	line-height: 42.9px;
+	text-align: left;
+
+}
+
+.button-setup button{
+	margin-top: 20px;
+	margin-left: 15px;
+	color: #000000;
+	font-size: 20px;
+	padding: 20px;
+	padding-left: 55px;
+	padding-right: 55px;
+	border-radius: 70px;
+	display: inherit;
+
+}
+
+.button-setup img{
+     width: 50px;
+     height: 10px;
+}
+
+.service{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.image-setup img{
+	width: 670px;
+	height: 350px;
+	margin-left: 20%;
+}
+
+.arrow-Right-Left-Content-Setup{
+	margin-left: 40px;
+	padding-top: 50px;
+}
+.arrow-Right-Left-Content-Setup img{
+	width: 30px;
+	height: 15px;
+}
+
+.arrow-Right-Left-Content-Setup a{
+	text-decoration: none;
+	color: #000000;
+	font-size: 20px;
+	margin-left: 20px;
+}
+
+/* Third Step */
+
+.third-step{
+	display: flex;
+	flex-wrap: wrap;
+	padding-bottom: 10%;
+}
+
+.one h2, h3{
+	margin-left: 20px;
+
+}
